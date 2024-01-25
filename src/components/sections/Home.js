@@ -12,7 +12,8 @@ const Home = () => {
             <span className="position-relative">
               <span className="animated-layer">I am</span>
               <span className="intro animated-layer">
-                Graphic & UI Designer with 7 years experience based on indore
+              Let's turn your vision into reality
+              & Create Something Unique!
               </span>
             </span>
             <span>
