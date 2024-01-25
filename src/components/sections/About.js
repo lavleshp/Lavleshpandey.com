@@ -66,12 +66,14 @@ const About = () => {
               </li>
               <li>
                 <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                 <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Instagram :</span>
-                    <span> <a href="www.lavleshpandey.com/ui.lavlesh">@ui.lavlesh</a> </span>
+                    <span> <a href="https://www.instagram.com/ui.lavlesh" target="_blank" >@ui.lavlesh</a> 
                   </span>
-                </span>
+                  </span>
+                 </span>
               </li>
+
             </ul>
             <ul>
               <li>
@@ -93,16 +95,17 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Email :</span>
-                    <span>lavleshpandey2021@gmail.com</span>
+                  <span>Email  :</span>
+                    <span> <a href="mailto:lavleshpandey2021@gmail.com, lavleshpandey1713@gmail.com">lavleshpandey2021@gmail.com</a> </span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>LinkedIn</span>
-                    <span>lavlesh Pandey</span>
+                <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>Linked In :</span>
+                    <span> <a href="https://www.linkedin.com/in/lavleshpandey" target="_blank" >Click Here To Visit</a> 
+                  </span>
                   </span>
                 </span>
               </li>
