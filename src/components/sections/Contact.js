@@ -22,7 +22,7 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">phone</span>
-              +216 21 184 010
+              +91 7000790745
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -31,7 +31,7 @@ const Contact = () => {
             <i className="fa fa-location-dot" />
             <p>
               <span className="small-text">address</span>
-              London, England
+              Indore, Madhya Pradesh, India
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -42,33 +42,33 @@ const Contact = () => {
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
-              contact@steven.net
+              lavleshpandey2021@gmail.com
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
           {/* CONTACT ITEM STARTS */}
           <div className="animated-layer fade-in-up-animation fadeInUp wow">
             <i className="fa fa-share-nodes" />
-            <span className="small-text">follow me</span>
+            <span className="small-text">Connect With Me</span>
             <ul className="social">
               <li>
                 <a href="#">
-                  <i className="fa-brands fa-github" />
+                  <i className="fa-brands fa-linkedin" />
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i className="fa-brands fa-twitter" />
+                  <i className="fa-brands fa-instagram" />
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i className="fa-brands fa-dribbble" />
+                  <i className="fa-brands fa-behance" />
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i className="fa-brands fa-facebook" />
+                  <i className="fa-brands fa-whatsapp" />
                 </a>
               </li>
             </ul>

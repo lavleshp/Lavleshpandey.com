@@ -1,3 +1,4 @@
+
 const About = () => {
   return (
     <section className="about main-section flex-column-mobile" id="about">
@@ -144,8 +145,9 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-jquery-plain" />
+              <i className="devicon-jquery-plain" />
               </span>
+              
               <h4>jQuery</h4>
             </div>
             {/* SKILL ITEM ENDS */}
