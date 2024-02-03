@@ -1,3 +1,4 @@
+
 import Header from "@/src/components/Header";
 import ScrollBar from "@/src/components/ScrollBar";
 import About from "@/src/components/sections/About";
